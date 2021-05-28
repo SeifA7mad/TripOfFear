@@ -1,0 +1,7508 @@
+fileFormatVersion: 2
+guid: 9e87d343c1e4e7c41bd2cf4172b059b5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4314644580898352816
+    second: Miles_0
+  - first:
+      213: 3002497873541632005
+    second: Miles_1
+  - first:
+      213: 5224452786029327971
+    second: Miles_2
+  - first:
+      213: 2701063384118692231
+    second: Miles_3
+  - first:
+      213: 725595697689875213
+    second: Miles_4
+  - first:
+      213: -827568690746226481
+    second: Miles_5
+  - first:
+      213: -1909995795465988063
+    second: Miles_6
+  - first:
+      213: -3336613079150489500
+    second: Miles_7
+  - first:
+      213: -5318664015118312792
+    second: Miles_8
+  - first:
+      213: 6091934149833767716
+    second: Miles_9
+  - first:
+      213: 8160831467172701668
+    second: Miles_10
+  - first:
+      213: -531458878666351414
+    second: Miles_11
+  - first:
+      213: -1977396072386430931
+    second: Miles_12
+  - first:
+      213: 8287771523943873384
+    second: Miles_13
+  - first:
+      213: 6257456569590185621
+    second: Miles_14
+  - first:
+      213: -9067393110905899242
+    second: Miles_15
+  - first:
+      213: -8250870171890365763
+    second: Miles_16
+  - first:
+      213: -1149181314652682938
+    second: Miles_17
+  - first:
+      213: -552466611479741234
+    second: Miles_18
+  - first:
+      213: 6285183256417660131
+    second: Miles_19
+  - first:
+      213: 8975721387452002364
+    second: Miles_20
+  - first:
+      213: 5855619943607721532
+    second: Miles_21
+  - first:
+      213: 6997317289293599106
+    second: Miles_22
+  - first:
+      213: 5026136925967903572
+    second: Miles_23
+  - first:
+      213: 3975527047840762812
+    second: Miles_24
+  - first:
+      213: -5861034221971285029
+    second: Miles_25
+  - first:
+      213: -7161835901365911809
+    second: Miles_26
+  - first:
+      213: 688968370795712729
+    second: Miles_27
+  - first:
+      213: 8671866760838760355
+    second: Miles_28
+  - first:
+      213: -5468457652174923782
+    second: Miles_29
+  - first:
+      213: -5670266727561363165
+    second: Miles_30
+  - first:
+      213: -5632134501168035239
+    second: Miles_31
+  - first:
+      213: 3815764019959933673
+    second: Miles_32
+  - first:
+      213: -3302309196641558408
+    second: Miles_33
+  - first:
+      213: 390666561235389067
+    second: Miles_34
+  - first:
+      213: 1898400985529372154
+    second: Miles_35
+  - first:
+      213: -2466250714452507552
+    second: Miles_36
+  - first:
+      213: -3089425675016958276
+    second: Miles_37
+  - first:
+      213: -1120431576667473924
+    second: Miles_38
+  - first:
+      213: 6476120031474495533
+    second: Miles_39
+  - first:
+      213: 408346752804147455
+    second: Miles_40
+  - first:
+      213: 2185707838421559270
+    second: Miles_41
+  - first:
+      213: 1407803046204632960
+    second: Miles_42
+  - first:
+      213: 7608519798757149833
+    second: Miles_43
+  - first:
+      213: 8661224887830854731
+    second: Miles_44
+  - first:
+      213: 562390286531571935
+    second: Miles_45
+  - first:
+      213: -3703304948079815236
+    second: Miles_46
+  - first:
+      213: -4506251206282622223
+    second: Miles_47
+  - first:
+      213: 8341380255550086069
+    second: Miles_48
+  - first:
+      213: 3037623548847532332
+    second: Miles_49
+  - first:
+      213: -1940960743183027790
+    second: Miles_50
+  - first:
+      213: -683910486122708536
+    second: Miles_51
+  - first:
+      213: 4262651483711612320
+    second: Miles_52
+  - first:
+      213: 1552336792691539771
+    second: Miles_53
+  - first:
+      213: 2029636614971775536
+    second: Miles_54
+  - first:
+      213: 281501439716615779
+    second: Miles_55
+  - first:
+      213: -7286682100989447501
+    second: Miles_56
+  - first:
+      213: -8242271836059922132
+    second: Miles_57
+  - first:
+      213: -8604416016499015174
+    second: Miles_58
+  - first:
+      213: 2027228728459035161
+    second: Miles_59
+  - first:
+      213: -7096258286927149521
+    second: Miles_60
+  - first:
+      213: -3496614905315814772
+    second: Miles_61
+  - first:
+      213: -5593470515214253876
+    second: Miles_62
+  - first:
+      213: 246238776530447051
+    second: Miles_63
+  - first:
+      213: 6310266103157596108
+    second: Miles_64
+  - first:
+      213: -2034714160662777124
+    second: Miles_65
+  - first:
+      213: -5607081603213353710
+    second: Miles_66
+  - first:
+      213: 4270803435472803150
+    second: Miles_67
+  - first:
+      213: -8419107595242509418
+    second: Miles_68
+  - first:
+      213: 3903507385820960264
+    second: Miles_69
+  - first:
+      213: -4939253255020732616
+    second: Miles_70
+  - first:
+      213: 7177480125687019206
+    second: Miles_71
+  - first:
+      213: -8370253781070616021
+    second: Miles_72
+  - first:
+      213: -7819448652812716639
+    second: Miles_73
+  - first:
+      213: -4064384111641770487
+    second: Miles_74
+  - first:
+      213: 8401401325155222441
+    second: Miles_75
+  - first:
+      213: -279972056483625737
+    second: Miles_76
+  - first:
+      213: 5352103009339731149
+    second: Miles_77
+  - first:
+      213: -9147036622859298546
+    second: Miles_78
+  - first:
+      213: 3183865023976837993
+    second: Miles_79
+  - first:
+      213: -7616892839146550661
+    second: Miles_80
+  - first:
+      213: -5792587658833677610
+    second: Miles_81
+  - first:
+      213: 95372276170389897
+    second: Miles_82
+  - first:
+      213: -9087052654703809398
+    second: Miles_83
+  - first:
+      213: -5400328045297351853
+    second: Miles_84
+  - first:
+      213: 2713752809367128152
+    second: Miles_85
+  - first:
+      213: 4486720465709930800
+    second: Miles_86
+  - first:
+      213: 2974973408867777007
+    second: Miles_87
+  - first:
+      213: 7492043781245446196
+    second: Miles_88
+  - first:
+      213: 2672781889670450710
+    second: Miles_89
+  - first:
+      213: 897549516742616129
+    second: Miles_90
+  - first:
+      213: 5683464571600638116
+    second: Miles_91
+  - first:
+      213: 1742599194110799775
+    second: Miles_92
+  - first:
+      213: 8072966825300571131
+    second: Miles_93
+  - first:
+      213: -3202829287364505461
+    second: Miles_94
+  - first:
+      213: 5165747689639946671
+    second: Miles_95
+  - first:
+      213: -7150916325008486416
+    second: Miles_96
+  - first:
+      213: 2674406774238740417
+    second: Miles_97
+  - first:
+      213: 1226916433927013642
+    second: Miles_98
+  - first:
+      213: 7339947409854301723
+    second: Miles_99
+  - first:
+      213: -169256109152073148
+    second: Miles_100
+  - first:
+      213: 5625336020015306171
+    second: Miles_101
+  - first:
+      213: 8367967388778951846
+    second: Miles_102
+  - first:
+      213: 8663127470305879969
+    second: Miles_103
+  - first:
+      213: 3093995944675565346
+    second: Miles_104
+  - first:
+      213: 7567456376245150860
+    second: Miles_105
+  - first:
+      213: 8927462849324040322
+    second: Miles_106
+  - first:
+      213: -4679636251616688048
+    second: Miles_107
+  - first:
+      213: -5840782012726974402
+    second: Miles_108
+  - first:
+      213: 9082467272123150604
+    second: Miles_109
+  - first:
+      213: -5059713348770741731
+    second: Miles_110
+  - first:
+      213: 8175848057125831675
+    second: Miles_111
+  - first:
+      213: -3137265552042232626
+    second: Miles_112
+  - first:
+      213: -4133754196850297267
+    second: Miles_113
+  - first:
+      213: -6835408638791244315
+    second: Miles_114
+  - first:
+      213: 8128133762015727763
+    second: Miles_115
+  - first:
+      213: -4936852750212156475
+    second: Miles_116
+  - first:
+      213: 4503490937759984685
+    second: Miles_117
+  - first:
+      213: -947105636006654664
+    second: Miles_118
+  - first:
+      213: 8877583131699568208
+    second: Miles_119
+  - first:
+      213: 8782000737939390240
+    second: Miles_120
+  - first:
+      213: 2182480900858742522
+    second: Miles_121
+  - first:
+      213: -8010951984110645292
+    second: Miles_122
+  - first:
+      213: -9195732319911765780
+    second: Miles_123
+  - first:
+      213: 3185771056045232880
+    second: Miles_124
+  - first:
+      213: -8207809995532867000
+    second: Miles_125
+  - first:
+      213: 2040877033163940187
+    second: Miles_126
+  - first:
+      213: 6418482349305628113
+    second: Miles_127
+  - first:
+      213: 258218633576131977
+    second: Miles_128
+  - first:
+      213: -7133692535681856233
+    second: Miles_129
+  - first:
+      213: 8540031837054227421
+    second: Miles_130
+  - first:
+      213: -1562970906453183630
+    second: Miles_131
+  - first:
+      213: -4888556910268696867
+    second: Miles_132
+  - first:
+      213: 9164869059992658591
+    second: Miles_133
+  - first:
+      213: 4892787623468990734
+    second: Miles_134
+  - first:
+      213: 2729051040211584351
+    second: Miles_135
+  - first:
+      213: -3410113577905803197
+    second: Miles_136
+  - first:
+      213: 4873559635439584559
+    second: Miles_137
+  - first:
+      213: -7090161006495226087
+    second: Miles_138
+  - first:
+      213: -1007008451379005806
+    second: Miles_139
+  - first:
+      213: -4363423530882683196
+    second: Miles_140
+  - first:
+      213: 1051626308785787003
+    second: Miles_141
+  - first:
+      213: -4990959139434200392
+    second: Miles_142
+  - first:
+      213: -7133573166720896426
+    second: Miles_143
+  - first:
+      213: 4957134375506342076
+    second: Miles_144
+  - first:
+      213: -3924866640665454915
+    second: Miles_145
+  - first:
+      213: 4917579702840075745
+    second: Miles_146
+  - first:
+      213: -3076952601365674700
+    second: Miles_147
+  - first:
+      213: 8641763990784658810
+    second: Miles_148
+  - first:
+      213: 1850269669709255832
+    second: Miles_149
+  - first:
+      213: 2805848466234645162
+    second: Miles_150
+  - first:
+      213: -8377545017096854879
+    second: Miles_151
+  - first:
+      213: -4050704708490548228
+    second: Miles_152
+  - first:
+      213: 8105555369844404715
+    second: Miles_153
+  - first:
+      213: 6699379030947358074
+    second: Miles_154
+  - first:
+      213: -3008976798522990594
+    second: Miles_155
+  - first:
+      213: -8274417859755442414
+    second: Miles_156
+  - first:
+      213: 5087835791820388822
+    second: Miles_157
+  - first:
+      213: 7473577967054013291
+    second: Miles_158
+  - first:
+      213: -7591042733621002072
+    second: Miles_159
+  - first:
+      213: -4846202441230497473
+    second: Miles_160
+  - first:
+      213: 6654555624751921369
+    second: Miles_161
+  - first:
+      213: -5257613233629083304
+    second: Miles_162
+  - first:
+      213: -7106477976759486236
+    second: Miles_163
+  - first:
+      213: -8417400572808851306
+    second: Miles_164
+  - first:
+      213: 1013892853366567752
+    second: Miles_165
+  - first:
+      213: 7526135359037450646
+    second: Miles_166
+  - first:
+      213: 656064285500378135
+    second: Miles_167
+  - first:
+      213: 4712393030567006561
+    second: Miles_168
+  - first:
+      213: 9105586476882306293
+    second: Miles_169
+  - first:
+      213: 5887739087687817963
+    second: Miles_170
+  - first:
+      213: -7976579429039186346
+    second: Miles_171
+  - first:
+      213: -4137219257369865918
+    second: Miles_172
+  - first:
+      213: -8394443192032927882
+    second: Miles_173
+  - first:
+      213: -3720349740285470247
+    second: Miles_174
+  - first:
+      213: 5376956939134530647
+    second: Miles_175
+  - first:
+      213: -7583309026673254061
+    second: Miles_176
+  - first:
+      213: -6450273044569037593
+    second: Miles_177
+  - first:
+      213: -1518320811730542160
+    second: Miles_178
+  - first:
+      213: 2640365487927168903
+    second: Miles_179
+  - first:
+      213: -4477293722720392308
+    second: Miles_180
+  - first:
+      213: -5496847566785533227
+    second: Miles_181
+  - first:
+      213: -7276855388421444870
+    second: Miles_182
+  - first:
+      213: -4692717029605089263
+    second: Miles_183
+  - first:
+      213: 5041443216723808857
+    second: Miles_184
+  - first:
+      213: 5230517721851996731
+    second: Miles_185
+  - first:
+      213: -8233540055825311203
+    second: Miles_186
+  - first:
+      213: -7212008393605892071
+    second: Miles_187
+  - first:
+      213: 8458066924757184371
+    second: Miles_188
+  - first:
+      213: -534597945028356941
+    second: Miles_189
+  - first:
+      213: -1324455013277959757
+    second: Miles_190
+  - first:
+      213: 3098748724851326188
+    second: Miles_191
+  - first:
+      213: -8055305612843224370
+    second: Miles_192
+  - first:
+      213: 436330032232103516
+    second: Miles_193
+  - first:
+      213: -8006884831380892435
+    second: Miles_194
+  - first:
+      213: -7007689465834038905
+    second: Miles_195
+  - first:
+      213: -1943526572651402637
+    second: Miles_196
+  - first:
+      213: -6877907329798064425
+    second: Miles_197
+  - first:
+      213: -6911021033030023014
+    second: Miles_198
+  - first:
+      213: 5681243564647283399
+    second: Miles_199
+  - first:
+      213: 6840966200248625907
+    second: Miles_200
+  - first:
+      213: -5587555470551708560
+    second: Miles_201
+  - first:
+      213: -4096409492945735150
+    second: Miles_202
+  - first:
+      213: 7799199430090430881
+    second: Miles_203
+  - first:
+      213: 9024259684439481794
+    second: Miles_204
+  - first:
+      213: 3827895074054594861
+    second: Miles_205
+  - first:
+      213: 4672699851131084755
+    second: Miles_206
+  - first:
+      213: 3421261289217849229
+    second: Miles_207
+  - first:
+      213: 2129456632767247882
+    second: Miles_208
+  - first:
+      213: -36359919944362334
+    second: Miles_209
+  - first:
+      213: 7956827621562371544
+    second: Miles_210
+  - first:
+      213: 1829312784422643943
+    second: Miles_211
+  - first:
+      213: -6580821233630250705
+    second: Miles_212
+  - first:
+      213: -5661329077429304320
+    second: Miles_213
+  - first:
+      213: -5081128250940110392
+    second: Miles_214
+  - first:
+      213: 5752850356604959010
+    second: Miles_215
+  - first:
+      213: 4896547078893180599
+    second: Miles_216
+  - first:
+      213: 4619475656410633013
+    second: Miles_217
+  - first:
+      213: -2197991025636106958
+    second: Miles_218
+  - first:
+      213: -8693644540012985767
+    second: Miles_219
+  - first:
+      213: 5931773960248718208
+    second: Miles_220
+  - first:
+      213: 1800930637482255994
+    second: Miles_221
+  - first:
+      213: 671973260830667564
+    second: Miles_222
+  - first:
+      213: 4691469430482491613
+    second: Miles_223
+  - first:
+      213: -7527190395883195334
+    second: Miles_224
+  - first:
+      213: 5165446449534969034
+    second: Miles_225
+  - first:
+      213: 8486767690599876409
+    second: Miles_226
+  - first:
+      213: -3096857187284725945
+    second: Miles_227
+  - first:
+      213: 8170566063761600938
+    second: Miles_228
+  - first:
+      213: -1638212513614727558
+    second: Miles_229
+  - first:
+      213: 8270483855471958868
+    second: Miles_230
+  - first:
+      213: 6438520540110508869
+    second: Miles_231
+  - first:
+      213: -9016722393122055650
+    second: Miles_232
+  - first:
+      213: 1979944096437458292
+    second: Miles_233
+  - first:
+      213: -6133188870109856817
+    second: Miles_234
+  - first:
+      213: -939773851452146414
+    second: Miles_235
+  - first:
+      213: 2011467890440268315
+    second: Miles_236
+  - first:
+      213: -8027908676602701801
+    second: Miles_237
+  - first:
+      213: -4620484384674736219
+    second: Miles_238
+  - first:
+      213: -5892925223448907331
+    second: Miles_239
+  - first:
+      213: -2394939370691325980
+    second: Miles_240
+  - first:
+      213: -7584262950034318884
+    second: Miles_241
+  - first:
+      213: -8095905482383427573
+    second: Miles_242
+  - first:
+      213: -5984168726211563778
+    second: Miles_243
+  - first:
+      213: -2258648276229966848
+    second: Miles_244
+  - first:
+      213: 7810582086935653398
+    second: Miles_245
+  - first:
+      213: 6627754466633362265
+    second: Miles_246
+  - first:
+      213: -3170430331712285839
+    second: Miles_247
+  - first:
+      213: -2822709061700327881
+    second: Miles_248
+  - first:
+      213: 1786280282586802116
+    second: Miles_249
+  - first:
+      213: 1540886649298641870
+    second: Miles_250
+  - first:
+      213: 6817996405569375598
+    second: Miles_251
+  - first:
+      213: 1059787511505089168
+    second: Miles_252
+  - first:
+      213: 2894999007114390391
+    second: Miles_253
+  - first:
+      213: -1766151709187922581
+    second: Miles_254
+  - first:
+      213: -6082596303796438098
+    second: Miles_255
+  - first:
+      213: 3879975117265369704
+    second: Miles_256
+  - first:
+      213: 804926350382039154
+    second: Miles_257
+  - first:
+      213: -8783464200150147352
+    second: Miles_258
+  - first:
+      213: 6722716537391867636
+    second: Miles_259
+  - first:
+      213: 3146752324754233024
+    second: Miles_260
+  - first:
+      213: 2877926576642367562
+    second: Miles_261
+  - first:
+      213: -3692652703564490941
+    second: Miles_262
+  - first:
+      213: 4999807747815141892
+    second: Miles_263
+  - first:
+      213: -8280230241586532249
+    second: Miles_264
+  - first:
+      213: -3006595965044583007
+    second: Miles_265
+  - first:
+      213: 7789614909175553636
+    second: Miles_266
+  - first:
+      213: 7986696688614544622
+    second: Miles_267
+  - first:
+      213: -8791810930381562861
+    second: Miles_268
+  - first:
+      213: 1063142475689874190
+    second: Miles_269
+  - first:
+      213: -8657316479044937441
+    second: Miles_270
+  - first:
+      213: 8327473000227801686
+    second: Miles_271
+  - first:
+      213: -2620737216308822515
+    second: Miles_272
+  - first:
+      213: -2101982265470263362
+    second: Miles_273
+  - first:
+      213: 7617159917543349674
+    second: Miles_274
+  - first:
+      213: -486422769632117029
+    second: Miles_275
+  - first:
+      213: 4409327885855715453
+    second: Miles_276
+  - first:
+      213: 136537005328576195
+    second: Miles_277
+  - first:
+      213: 7794440964124879633
+    second: Miles_278
+  - first:
+      213: 2847297410975545947
+    second: Miles_279
+  - first:
+      213: 7874251644066477843
+    second: Miles_280
+  - first:
+      213: 648465964905144755
+    second: Miles_281
+  - first:
+      213: -90484130010970727
+    second: Miles_282
+  - first:
+      213: 4891223312824229407
+    second: Miles_283
+  - first:
+      213: -5196821529331685061
+    second: Miles_284
+  - first:
+      213: -1737204979286980703
+    second: Miles_285
+  - first:
+      213: 1261891118572069291
+    second: Miles_286
+  - first:
+      213: 7481504761145984407
+    second: Miles_287
+  - first:
+      213: -736090475411844492
+    second: Miles_288
+  - first:
+      213: 266866268968398623
+    second: Miles_289
+  - first:
+      213: 1216430890535014965
+    second: Miles_290
+  - first:
+      213: 2606614384353457112
+    second: Miles_291
+  - first:
+      213: 1452336086092207111
+    second: Miles_292
+  - first:
+      213: 7917108941791160899
+    second: Miles_293
+  - first:
+      213: -962431278651443511
+    second: Miles_294
+  - first:
+      213: 3668198310913874282
+    second: Miles_295
+  - first:
+      213: 5058346147925535753
+    second: Miles_296
+  - first:
+      213: 1132870841050447722
+    second: Miles_297
+  - first:
+      213: 1081016869894595913
+    second: Miles_298
+  - first:
+      213: -8999340610338104722
+    second: Miles_299
+  - first:
+      213: 3489541598161262684
+    second: Miles_300
+  - first:
+      213: -8614538191695558397
+    second: Miles_301
+  - first:
+      213: -3974811678438462258
+    second: Miles_302
+  - first:
+      213: -4421535207172700805
+    second: Miles_303
+  - first:
+      213: -5778063489845709582
+    second: Miles_304
+  - first:
+      213: 1390669352593335618
+    second: Miles_305
+  - first:
+      213: -4595175517615669027
+    second: Miles_306
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Miles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5045
+        width: 117
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bea288e262b0eb30800000000000000
+      internalID: 4314644580898352816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 5077
+        width: 142
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500905778e30ba920800000000000000
+      internalID: 3002497873541632005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_2
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 5100
+        width: 155
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366f319e02cf08840800000000000000
+      internalID: 5224452786029327971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_3
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 5132
+        width: 139
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789853646da1c7520800000000000000
+      internalID: 2701063384118692231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_4
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 5127
+        width: 123
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d035b535175d11a00800000000000000
+      internalID: 725595697689875213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_5
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 5121
+        width: 124
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc806d019a2e384f0800000000000000
+      internalID: -827568690746226481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_6
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 5116
+        width: 126
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12892c091f45e75e0800000000000000
+      internalID: -1909995795465988063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_7
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 5121
+        width: 120
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46010582518f1b1d0800000000000000
+      internalID: -3336613079150489500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_8
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 5119
+        width: 113
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa583bf14f4036b0800000000000000
+      internalID: -5318664015118312792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_9
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 5116
+        width: 116
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42bb9e335d5ea8450800000000000000
+      internalID: 6091934149833767716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_10
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 5116
+        width: 116
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5a8a04bf8114170800000000000000
+      internalID: 8160831467172701668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_11
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 5119
+        width: 120
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc5d5437f0ef98f0800000000000000
+      internalID: -531458878666351414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_12
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 5116
+        width: 131
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d287725bfb0ee84e0800000000000000
+      internalID: -1977396072386430931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_13
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 5113
+        width: 141
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86bb5406a44140370800000000000000
+      internalID: 8287771523943873384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_14
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 5113
+        width: 145
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e7bdbb893f6d650800000000000000
+      internalID: 6257456569590185621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_15
+      rect:
+        serializedVersion: 2
+        x: 2050
+        y: 5108
+        width: 145
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61731a9b1062a2280800000000000000
+      internalID: -9067393110905899242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_16
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 5108
+        width: 145
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbacb9c2b450f7d80800000000000000
+      internalID: -8250870171890365763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_17
+      rect:
+        serializedVersion: 2
+        x: 2355
+        y: 5113
+        width: 139
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6454c95dea94d00f0800000000000000
+      internalID: -1149181314652682938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_18
+      rect:
+        serializedVersion: 2
+        x: 2507
+        y: 5108
+        width: 134
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc7c704b8e3558f0800000000000000
+      internalID: -552466611479741234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_19
+      rect:
+        serializedVersion: 2
+        x: 2660
+        y: 5116
+        width: 126
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ece1031fd4793750800000000000000
+      internalID: 6285183256417660131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_20
+      rect:
+        serializedVersion: 2
+        x: 2791
+        y: 5108
+        width: 129
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30f3f5eb0b209c70800000000000000
+      internalID: 8975721387452002364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_21
+      rect:
+        serializedVersion: 2
+        x: 2927
+        y: 5121
+        width: 153
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e5e667057534150800000000000000
+      internalID: 5855619943607721532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_22
+      rect:
+        serializedVersion: 2
+        x: 3090
+        y: 5119
+        width: 181
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2815b0150077b1160800000000000000
+      internalID: 6997317289293599106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_23
+      rect:
+        serializedVersion: 2
+        x: 3285
+        y: 5134
+        width: 207
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b6ac097ec60c540800000000000000
+      internalID: 5026136925967903572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_24
+      rect:
+        serializedVersion: 2
+        x: 3492
+        y: 5153
+        width: 252
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb818969c8eb2730800000000000000
+      internalID: 3975527047840762812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_25
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4856
+        width: 297
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb5efe9d6c69aea0800000000000000
+      internalID: -5861034221971285029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_26
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 4869
+        width: 326
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffef177513c0c9c90800000000000000
+      internalID: -7161835901365911809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_27
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 4903
+        width: 344
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d012ca3515bf8900800000000000000
+      internalID: 688968370795712729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_28
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 4940
+        width: 352
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7cf4b9fd8a85870800000000000000
+      internalID: 8671866760838760355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_29
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 4940
+        width: 352
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7d8dc0db22c14b0800000000000000
+      internalID: -5468457652174923782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_30
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 4948
+        width: 352
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3210df1247a2f41b0800000000000000
+      internalID: -5670266727561363165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_31
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 4945
+        width: 347
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a48a2f283a6d1b0800000000000000
+      internalID: -5632134501168035239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_32
+      rect:
+        serializedVersion: 2
+        x: 2444
+        y: 4940
+        width: 347
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eaad6cc82154f430800000000000000
+      internalID: 3815764019959933673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_33
+      rect:
+        serializedVersion: 2
+        x: 2791
+        y: 4932
+        width: 352
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870aca33847db22d0800000000000000
+      internalID: -3302309196641558408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_34
+      rect:
+        serializedVersion: 2
+        x: 3172
+        y: 4935
+        width: 357
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a0f08ea2deb6500800000000000000
+      internalID: 390666561235389067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_35
+      rect:
+        serializedVersion: 2
+        x: 3532
+        y: 4701
+        width: 244
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdcabf53a9785a10800000000000000
+      internalID: 1898400985529372154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_36
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3989
+        width: 258
+        height: 715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064410eba0e16cdd0800000000000000
+      internalID: -2466250714452507552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_37
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 4336
+        width: 247
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe84a097b72025d0800000000000000
+      internalID: -3089425675016958276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_38
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 4362
+        width: 331
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7ba95da6d6370f0800000000000000
+      internalID: -1120431576667473924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_39
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 4336
+        width: 291
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2034de4bdccfd950800000000000000
+      internalID: 6476120031474495533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_40
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 4336
+        width: 244
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0531a453dbaa500800000000000000
+      internalID: 408346752804147455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_41
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 4336
+        width: 244
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e767ebd2b1355e10800000000000000
+      internalID: 2185707838421559270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_42
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 4336
+        width: 244
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f6db26965898310800000000000000
+      internalID: 1407803046204632960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_43
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 4336
+        width: 244
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c427ff174e69960800000000000000
+      internalID: 7608519798757149833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_44
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 4338
+        width: 244
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c3ee6752ad23870800000000000000
+      internalID: 8661224887830854731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_45
+      rect:
+        serializedVersion: 2
+        x: 2392
+        y: 4375
+        width: 260
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd038d56cf20ec700800000000000000
+      internalID: 562390286531571935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_46
+      rect:
+        serializedVersion: 2
+        x: 2657
+        y: 4378
+        width: 273
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb591ca45c73b9cc0800000000000000
+      internalID: -3703304948079815236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_47
+      rect:
+        serializedVersion: 2
+        x: 2933
+        y: 4378
+        width: 273
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa49dc27649671c0800000000000000
+      internalID: -4506251206282622223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_48
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 4354
+        width: 110
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb158cd52982c370800000000000000
+      internalID: 8341380255550086069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_49
+      rect:
+        serializedVersion: 2
+        x: 3340
+        y: 4352
+        width: 115
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c292b6e068ec72a20800000000000000
+      internalID: 3037623548847532332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_50
+      rect:
+        serializedVersion: 2
+        x: 3471
+        y: 4354
+        width: 118
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1f89bdc725015e0800000000000000
+      internalID: -1940960743183027790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_51
+      rect:
+        serializedVersion: 2
+        x: 3605
+        y: 4354
+        width: 118
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1cd7059034286f0800000000000000
+      internalID: -683910486122708536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_52
+      rect:
+        serializedVersion: 2
+        x: 3731
+        y: 4354
+        width: 118
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a52cef90faf72b30800000000000000
+      internalID: 4262651483711612320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_53
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 3981
+        width: 123
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ff52c96120b8510800000000000000
+      internalID: 1552336792691539771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_54
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 3981
+        width: 118
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ad4827fb7ba2c10800000000000000
+      internalID: 2029636614971775536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_55
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 3981
+        width: 121
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366e116611818e300800000000000000
+      internalID: 281501439716615779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_56
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 3989
+        width: 118
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2b3535c3180ea90800000000000000
+      internalID: -7286682100989447501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_57
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 3979
+        width: 120
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21117d3f619d9d80800000000000000
+      internalID: -8242271836059922132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_58
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 3979
+        width: 121
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af105ec9839f69880800000000000000
+      internalID: -8604416016499015174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_59
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 3989
+        width: 121
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912844ea9c9222c10800000000000000
+      internalID: 2027228728459035161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_60
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 3981
+        width: 121
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2609458fa6058d90800000000000000
+      internalID: -7096258286927149521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_61
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 3981
+        width: 118
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82905cf447897fc0800000000000000
+      internalID: -3496614905315814772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_62
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 3989
+        width: 121
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0880fa3300062b0800000000000000
+      internalID: -5593470515214253876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_63
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 3981
+        width: 121
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca2605dcd0da6300800000000000000
+      internalID: 246238776530447051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_64
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 3981
+        width: 120
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf95ec6691929750800000000000000
+      internalID: 6310266103157596108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_65
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 3981
+        width: 121
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2fc32504e33c3e0800000000000000
+      internalID: -2034714160662777124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_66
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 3981
+        width: 121
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d17dd4df4af22b0800000000000000
+      internalID: -5607081603213353710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_67
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 3989
+        width: 118
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45dfdcc811f44b30800000000000000
+      internalID: 4270803435472803150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_68
+      rect:
+        serializedVersion: 2
+        x: 2161
+        y: 3989
+        width: 121
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69be6cb9f32592b80800000000000000
+      internalID: -8419107595242509418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_69
+      rect:
+        serializedVersion: 2
+        x: 2302
+        y: 3989
+        width: 118
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806d8f5294b0c2630800000000000000
+      internalID: 3903507385820960264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_70
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 3989
+        width: 118
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f1cc6755f347bb0800000000000000
+      internalID: -4939253255020732616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_71
+      rect:
+        serializedVersion: 2
+        x: 2573
+        y: 3989
+        width: 121
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6300a75288b9360800000000000000
+      internalID: 7177480125687019206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_72
+      rect:
+        serializedVersion: 2
+        x: 2715
+        y: 3989
+        width: 120
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a6a6b9882e6db80800000000000000
+      internalID: -8370253781070616021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_73
+      rect:
+        serializedVersion: 2
+        x: 2854
+        y: 3989
+        width: 121
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5f0b521ecbb7390800000000000000
+      internalID: -7819448652812716639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_74
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 3989
+        width: 121
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906c9da3f286897c0800000000000000
+      internalID: -4064384111641770487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_75
+      rect:
+        serializedVersion: 2
+        x: 3127
+        y: 3979
+        width: 118
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a38f512ef5c79470800000000000000
+      internalID: 8401401325155222441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_76
+      rect:
+        serializedVersion: 2
+        x: 3258
+        y: 3979
+        width: 119
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f40242e5e65d1cf0800000000000000
+      internalID: -279972056483625737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_77
+      rect:
+        serializedVersion: 2
+        x: 3387
+        y: 3989
+        width: 121
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc6ef0945d764a40800000000000000
+      internalID: 5352103009339731149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_78
+      rect:
+        serializedVersion: 2
+        x: 3524
+        y: 3992
+        width: 118
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e099bf297a23f0180800000000000000
+      internalID: -9147036622859298546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_79
+      rect:
+        serializedVersion: 2
+        x: 3655
+        y: 3989
+        width: 121
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9631ee6de5c5f2c20800000000000000
+      internalID: 3183865023976837993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_80
+      rect:
+        serializedVersion: 2
+        x: 3789
+        y: 3984
+        width: 123
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a047e915c5b4690800000000000000
+      internalID: -7616892839146550661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_81
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 3632
+        width: 120
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d238e8f6389c9fa0800000000000000
+      internalID: -5792587658833677610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_82
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 3632
+        width: 121
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9897e827494d25100800000000000000
+      internalID: 95372276170389897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_83
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 3629
+        width: 120
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ceb1d71cd44e180800000000000000
+      internalID: -9087052654703809398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_84
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 3634
+        width: 121
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353c875414e2e05b0800000000000000
+      internalID: -5400328045297351853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_85
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 3632
+        width: 118
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858cb825dcf29a520800000000000000
+      internalID: 2713752809367128152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_86
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 3632
+        width: 115
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0399d1ded78044e30800000000000000
+      internalID: 4486720465709930800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_87
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 3632
+        width: 113
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9fbc3ad8a394920800000000000000
+      internalID: 2974973408867777007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_88
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 3632
+        width: 110
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4382fcedf1619f760800000000000000
+      internalID: 7492043781245446196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_89
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 3634
+        width: 105
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e87e7b7f0a71520800000000000000
+      internalID: 2672781889670450710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_90
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 3634
+        width: 105
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14464c1b78cb47c00800000000000000
+      internalID: 897549516742616129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_91
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 3632
+        width: 107
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a016c36ae8bfde40800000000000000
+      internalID: 5683464571600638116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_92
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 3632
+        width: 110
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f2bdefbb4fe2810800000000000000
+      internalID: 1742599194110799775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_93
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 3632
+        width: 118
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3bd812e80f80070800000000000000
+      internalID: 8072966825300571131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_94
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 3624
+        width: 124
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80db628bb34d83d0800000000000000
+      internalID: -3202829287364505461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_95
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 3634
+        width: 129
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9a848872c60b740800000000000000
+      internalID: 5165747689639946671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_96
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 3624
+        width: 134
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffc3555d77d2cc90800000000000000
+      internalID: -7150916325008486416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_97
+      rect:
+        serializedVersion: 2
+        x: 2137
+        y: 3640
+        width: 136
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cff563aac66d1520800000000000000
+      internalID: 2674406774238740417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_98
+      rect:
+        serializedVersion: 2
+        x: 2284
+        y: 3640
+        width: 144
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a050f450ff1e60110800000000000000
+      internalID: 1226916433927013642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_99
+      rect:
+        serializedVersion: 2
+        x: 2436
+        y: 3640
+        width: 153
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b160a62d74bbcd560800000000000000
+      internalID: 7339947409854301723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_100
+      rect:
+        serializedVersion: 2
+        x: 2599
+        y: 3650
+        width: 160
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a0de9277ea6adf0800000000000000
+      internalID: -169256109152073148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_101
+      rect:
+        serializedVersion: 2
+        x: 2765
+        y: 3663
+        width: 160
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5d83f4e45311e40800000000000000
+      internalID: 5625336020015306171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_102
+      rect:
+        serializedVersion: 2
+        x: 2941
+        y: 3663
+        width: 162
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4f834310ef02470800000000000000
+      internalID: 8367967388778951846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_103
+      rect:
+        serializedVersion: 2
+        x: 3109
+        y: 3666
+        width: 162
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7a287f88c993870800000000000000
+      internalID: 8663127470305879969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_104
+      rect:
+        serializedVersion: 2
+        x: 3282
+        y: 3661
+        width: 160
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22fd2e24be410fa20800000000000000
+      internalID: 3093995944675565346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_105
+      rect:
+        serializedVersion: 2
+        x: 3461
+        y: 3661
+        width: 160
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c846b57ea71050960800000000000000
+      internalID: 7567456376245150860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_106
+      rect:
+        serializedVersion: 2
+        x: 3639
+        y: 3666
+        width: 163
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280c4776928b4eb70800000000000000
+      internalID: 8927462849324040322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_107
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3303
+        width: 162
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058c8587f979e0fb0800000000000000
+      internalID: -4679636251616688048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_108
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 3309
+        width: 163
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38eae884bf51fea0800000000000000
+      internalID: -5840782012726974402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_109
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 3309
+        width: 162
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01f20fecd76b0e70800000000000000
+      internalID: 9082467272123150604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_110
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 3311
+        width: 164
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12c73d448948c9b0800000000000000
+      internalID: -5059713348770741731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_111
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 3306
+        width: 162
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf38d8e8d72767170800000000000000
+      internalID: 8175848057125831675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_112
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 3301
+        width: 160
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4f3743a913674d0800000000000000
+      internalID: -3137265552042232626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_113
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 3298
+        width: 157
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4635f3a574f1a6c0800000000000000
+      internalID: -4133754196850297267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_114
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 3298
+        width: 157
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5263efe00c321a0800000000000000
+      internalID: -6835408638791244315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_115
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 3293
+        width: 157
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3909ec3879eecc070800000000000000
+      internalID: 8128133762015727763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_116
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 3296
+        width: 160
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3b13b8496cc7bb0800000000000000
+      internalID: -4936852750212156475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_117
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 3296
+        width: 160
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2cef5ab52d9f7e30800000000000000
+      internalID: 4503490937759984685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_118
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 3296
+        width: 158
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d8d0921743bd2f0800000000000000
+      internalID: -947105636006654664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_119
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 3290
+        width: 158
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ed3f4a2d2833b70800000000000000
+      internalID: 8877583131699568208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_120
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 3298
+        width: 158
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f7812642fefd970800000000000000
+      internalID: 8782000737939390240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_121
+      rect:
+        serializedVersion: 2
+        x: 2399
+        y: 3296
+        width: 158
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af682c8e0dab94e10800000000000000
+      internalID: 2182480900858742522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_122
+      rect:
+        serializedVersion: 2
+        x: 2581
+        y: 3293
+        width: 165
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfcf524d9163d090800000000000000
+      internalID: -8010951984110645292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_123
+      rect:
+        serializedVersion: 2
+        x: 2767
+        y: 3293
+        width: 171
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce894161d22326080800000000000000
+      internalID: -9195732319911765780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_124
+      rect:
+        serializedVersion: 2
+        x: 2949
+        y: 3298
+        width: 175
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f21c4385e1263c20800000000000000
+      internalID: 3185771056045232880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_125
+      rect:
+        serializedVersion: 2
+        x: 3143
+        y: 3298
+        width: 181
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84aec50cb40081e80800000000000000
+      internalID: -8207809995532867000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_126
+      rect:
+        serializedVersion: 2
+        x: 3353
+        y: 3297
+        width: 189
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b516dff39d6a25c10800000000000000
+      internalID: 2040877033163940187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_127
+      rect:
+        serializedVersion: 2
+        x: 3553
+        y: 3303
+        width: 387
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d50a7ba0b7031950800000000000000
+      internalID: 6418482349305628113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_128
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2975
+        width: 202
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d21b8aa70659300800000000000000
+      internalID: 258218633576131977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_129
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 2970
+        width: 202
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71dc3d94f68000d90800000000000000
+      internalID: -7133692535681856233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_130
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 2967
+        width: 202
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3d42275b9448670800000000000000
+      internalID: 8540031837054227421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_131
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 2959
+        width: 197
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2737696dd363f4ae0800000000000000
+      internalID: -1562970906453183630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_132
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 2953
+        width: 187
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6372b046b582cb0800000000000000
+      internalID: -4888556910268696867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_133
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 2949
+        width: 173
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92a4dd3ad7203f70800000000000000
+      internalID: 9164869059992658591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_134
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 2944
+        width: 152
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e010c42ab6ca6e340800000000000000
+      internalID: 4892787623468990734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_135
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 2941
+        width: 137
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55c8b146798fd520800000000000000
+      internalID: 2729051040211584351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_136
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 2938
+        width: 126
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3403039b4c7dca0d0800000000000000
+      internalID: -3410113577905803197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_137
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 2936
+        width: 131
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f250f0ecaac52a340800000000000000
+      internalID: 4873559635439584559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_138
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 2941
+        width: 132
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917a68f3120ba9d90800000000000000
+      internalID: -7090161006495226087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_139
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 2930
+        width: 134
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296fcb916236602f0800000000000000
+      internalID: -1007008451379005806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_140
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 2928
+        width: 131
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce2825ca610273c0800000000000000
+      internalID: -4363423530882683196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_141
+      rect:
+        serializedVersion: 2
+        x: 2287
+        y: 2941
+        width: 128
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70d1ab5e80289e00800000000000000
+      internalID: 1051626308785787003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_142
+      rect:
+        serializedVersion: 2
+        x: 2431
+        y: 2944
+        width: 126
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2098d1b1d8cbab0800000000000000
+      internalID: -4990959139434200392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_143
+      rect:
+        serializedVersion: 2
+        x: 2562
+        y: 2944
+        width: 121
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652b75a0005700d90800000000000000
+      internalID: -7133573166720896426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_144
+      rect:
+        serializedVersion: 2
+        x: 2702
+        y: 2962
+        width: 233
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0fee353774bc440800000000000000
+      internalID: 4957134375506342076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_145
+      rect:
+        serializedVersion: 2
+        x: 2949
+        y: 2965
+        width: 223
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6da5cc5921889c0800000000000000
+      internalID: -3924866640665454915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_146
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 2962
+        width: 220
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5247e6fa0ce3440800000000000000
+      internalID: 4917579702840075745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_147
+      rect:
+        serializedVersion: 2
+        x: 3421
+        y: 2951
+        width: 221
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43582e459e77c45d0800000000000000
+      internalID: -3076952601365674700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_148
+      rect:
+        serializedVersion: 2
+        x: 3658
+        y: 2965
+        width: 244
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d4b774096bde770800000000000000
+      internalID: 8641763990784658810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_149
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2584
+        width: 147
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89413b1267a7da910800000000000000
+      internalID: 1850269669709255832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_150
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 2584
+        width: 163
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa9d73605060f620800000000000000
+      internalID: 2805848466234645162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_151
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 2589
+        width: 171
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2291e613bfcbb80800000000000000
+      internalID: -8377545017096854879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_152
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 2584
+        width: 176
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb2b68778109c7c0800000000000000
+      internalID: -4050704708490548228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_153
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 2594
+        width: 176
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1f5dee9a7bc7070800000000000000
+      internalID: 8105555369844404715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_154
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 2589
+        width: 176
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75615bdbb9f8fc50800000000000000
+      internalID: 6699379030947358074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_155
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 2586
+        width: 168
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff15a24b87fd36d0800000000000000
+      internalID: -3008976798522990594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_156
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 2576
+        width: 152
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ff02adbcc5b2d80800000000000000
+      internalID: -8274417859755442414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_157
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 2576
+        width: 165
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9f8f632bf9b9640800000000000000
+      internalID: 5087835791820388822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_158
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 2578
+        width: 213
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63c077709b77b760800000000000000
+      internalID: 7473577967054013291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_159
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 2584
+        width: 249
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0c5b35ad237a690800000000000000
+      internalID: -7591042733621002072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_160
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 2584
+        width: 270
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3943d45e84debcb0800000000000000
+      internalID: -4846202441230497473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_161
+      rect:
+        serializedVersion: 2
+        x: 2342
+        y: 2589
+        width: 281
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d87a67551bb95c50800000000000000
+      internalID: 6654555624751921369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_162
+      rect:
+        serializedVersion: 2
+        x: 2639
+        y: 2605
+        width: 275
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859452bbe943907b0800000000000000
+      internalID: -5257613233629083304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_163
+      rect:
+        serializedVersion: 2
+        x: 2922
+        y: 2615
+        width: 271
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e83d1f8ee7b06d90800000000000000
+      internalID: -7106477976759486236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_164
+      rect:
+        serializedVersion: 2
+        x: 3206
+        y: 2613
+        width: 257
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6901f8db6c26f2b80800000000000000
+      internalID: -8417400572808851306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_165
+      rect:
+        serializedVersion: 2
+        x: 3474
+        y: 2623
+        width: 257
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843b835ad22121e00800000000000000
+      internalID: 1013892853366567752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_166
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2255
+        width: 263
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6992feedb34327860800000000000000
+      internalID: 7526135359037450646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_167
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 2258
+        width: 263
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c021fddfeca1900800000000000000
+      internalID: 656064285500378135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_168
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 2234
+        width: 254
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16119f47e78c56140800000000000000
+      internalID: 4712393030567006561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_169
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 2218
+        width: 221
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4ab2248aa8d5e70800000000000000
+      internalID: 9105586476882306293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_170
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 2218
+        width: 210
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea90d3718375b150800000000000000
+      internalID: 5887739087687817963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_171
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 2224
+        width: 231
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e5e61654f7d4190800000000000000
+      internalID: -7976579429039186346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_172
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 2250
+        width: 257
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241509e5105a596c0800000000000000
+      internalID: -4137219257369865918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_173
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 2248
+        width: 268
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f5eab7462f08b80800000000000000
+      internalID: -8394443192032927882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_174
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 2247
+        width: 270
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9511a5f99ae5cc0800000000000000
+      internalID: -3720349740285470247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_175
+      rect:
+        serializedVersion: 2
+        x: 2321
+        y: 2245
+        width: 265
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7547fa909d9ce9a40800000000000000
+      internalID: 5376956939134530647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_176
+      rect:
+        serializedVersion: 2
+        x: 2589
+        y: 2245
+        width: 252
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351a02b4e9ca2c690800000000000000
+      internalID: -7583309026673254061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_177
+      rect:
+        serializedVersion: 2
+        x: 2846
+        y: 2247
+        width: 234
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e46f2a47d60c76a0800000000000000
+      internalID: -6450273044569037593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_178
+      rect:
+        serializedVersion: 2
+        x: 3111
+        y: 2218
+        width: 221
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1e7b12447ddeae0800000000000000
+      internalID: -1518320811730542160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_179
+      rect:
+        serializedVersion: 2
+        x: 3342
+        y: 2203
+        width: 229
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f89190c6674a420800000000000000
+      internalID: 2640365487927168903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_180
+      rect:
+        serializedVersion: 2
+        x: 3589
+        y: 2205
+        width: 242
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b2a26b4157dd1c0800000000000000
+      internalID: -4477293722720392308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_181
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1832
+        width: 260
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da2745f24647b3b0800000000000000
+      internalID: -5496847566785533227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_182
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1843
+        width: 252
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afaa043249a630b90800000000000000
+      internalID: -7276855388421444870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_183
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1864
+        width: 260
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11066f289be10eeb0800000000000000
+      internalID: -4692717029605089263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_184
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1830
+        width: 134
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952102815edc6f540800000000000000
+      internalID: 5041443216723808857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_185
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 1845
+        width: 134
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3aaf52d728869840800000000000000
+      internalID: 5230517721851996731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_186
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1851
+        width: 141
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a159041f69cbd80800000000000000
+      internalID: -8233540055825311203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_187
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 1859
+        width: 152
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9183cfda39cc9eb90800000000000000
+      internalID: -7212008393605892071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_188
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 1867
+        width: 161
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37fe1a82e07116570800000000000000
+      internalID: 8458066924757184371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_189
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 1877
+        width: 168
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b45eec500ab498f0800000000000000
+      internalID: -534597945028356941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_190
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 1887
+        width: 168
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9f494ce279e9de0800000000000000
+      internalID: -1324455013277959757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_191
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 1895
+        width: 158
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec35f02c87f00b20800000000000000
+      internalID: 3098748724851326188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_192
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 1895
+        width: 155
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2f445593ec53090800000000000000
+      internalID: -8055305612843224370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_193
+      rect:
+        serializedVersion: 2
+        x: 2321
+        y: 1893
+        width: 149
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e77004ad72e0600800000000000000
+      internalID: 436330032232103516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_194
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 1898
+        width: 150
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4141c0ba4d1e090800000000000000
+      internalID: -8006884831380892435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_195
+      rect:
+        serializedVersion: 2
+        x: 2638
+        y: 1885
+        width: 150
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78917b42f8fafbe90800000000000000
+      internalID: -7007689465834038905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_196
+      rect:
+        serializedVersion: 2
+        x: 2799
+        y: 1887
+        width: 149
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37aa49121e43705e0800000000000000
+      internalID: -1943526572651402637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_197
+      rect:
+        serializedVersion: 2
+        x: 2969
+        y: 1885
+        width: 150
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6b45969b3cc80a0800000000000000
+      internalID: -6877907329798064425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_198
+      rect:
+        serializedVersion: 2
+        x: 3130
+        y: 1874
+        width: 152
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a980ef29cfe1710a0800000000000000
+      internalID: -6911021033030023014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_199
+      rect:
+        serializedVersion: 2
+        x: 3298
+        y: 1848
+        width: 152
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca7649ebe4d7de40800000000000000
+      internalID: 5681243564647283399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_200
+      rect:
+        serializedVersion: 2
+        x: 3463
+        y: 1840
+        width: 153
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fae54e938effee50800000000000000
+      internalID: 6840966200248625907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_201
+      rect:
+        serializedVersion: 2
+        x: 3626
+        y: 1843
+        width: 163
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c89f657e30572b0800000000000000
+      internalID: -5587555470551708560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_202
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1462
+        width: 175
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2127e661541a627c0800000000000000
+      internalID: -4096409492945735150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_203
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1465
+        width: 176
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a918fa4f825c3c60800000000000000
+      internalID: 7799199430090430881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_204
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1483
+        width: 171
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cdd4e3de5c9c3d70800000000000000
+      internalID: 9024259684439481794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_205
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1496
+        width: 163
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21ed7ee94a6f1530800000000000000
+      internalID: 3827895074054594861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_206
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1491
+        width: 157
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df50b0f1c3c8d040800000000000000
+      internalID: 4672699851131084755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_207
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1504
+        width: 152
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87ff931403ca7f20800000000000000
+      internalID: 3421261289217849229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_208
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1509
+        width: 142
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06f0b076895d8d10800000000000000
+      internalID: 2129456632767247882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_209
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 1507
+        width: 139
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a697af68d2de7ff0800000000000000
+      internalID: -36359919944362334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_210
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 1504
+        width: 141
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ddcd3290945c6e60800000000000000
+      internalID: 7956827621562371544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_211
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 1496
+        width: 147
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8a79a0946036910800000000000000
+      internalID: 1829312784422643943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_212
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 1488
+        width: 147
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29fe1764f93ca4a0800000000000000
+      internalID: -6580821233630250705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_213
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 1480
+        width: 150
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0048c37f23bee61b0800000000000000
+      internalID: -5661329077429304320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_214
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 1478
+        width: 152
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c94388d6c43c79b0800000000000000
+      internalID: -5081128250940110392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_215
+      rect:
+        serializedVersion: 2
+        x: 2179
+        y: 1472
+        width: 160
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229fa6f5bea36df40800000000000000
+      internalID: 5752850356604959010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_216
+      rect:
+        serializedVersion: 2
+        x: 2344
+        y: 1467
+        width: 168
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6976f00a704f340800000000000000
+      internalID: 4896547078893180599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_217
+      rect:
+        serializedVersion: 2
+        x: 2541
+        y: 1472
+        width: 174
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5339bec62acab1040800000000000000
+      internalID: 4619475656410633013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_218
+      rect:
+        serializedVersion: 2
+        x: 2715
+        y: 1475
+        width: 177
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d9671ceca2f71e0800000000000000
+      internalID: -2197991025636106958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_219
+      rect:
+        serializedVersion: 2
+        x: 2904
+        y: 1496
+        width: 184
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952030d0a58f95780800000000000000
+      internalID: -8693644540012985767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_220
+      rect:
+        serializedVersion: 2
+        x: 3098
+        y: 1465
+        width: 110
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083798c2df4e15250800000000000000
+      internalID: 5931773960248718208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_221
+      rect:
+        serializedVersion: 2
+        x: 3235
+        y: 1462
+        width: 173
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a766f308fd03ef810800000000000000
+      internalID: 1800930637482255994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_222
+      rect:
+        serializedVersion: 2
+        x: 3419
+        y: 1462
+        width: 157
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c237f56de14535900800000000000000
+      internalID: 671973260830667564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_223
+      rect:
+        serializedVersion: 2
+        x: 3581
+        y: 1462
+        width: 169
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8538e27927b1140800000000000000
+      internalID: 4691469430482491613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_224
+      rect:
+        serializedVersion: 2
+        x: 3755
+        y: 1465
+        width: 185
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3476a8373c0a8790800000000000000
+      internalID: -7527190395883195334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_225
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1102
+        width: 165
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4a5da9d2a5fa740800000000000000
+      internalID: 5165446449534969034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_226
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1105
+        width: 168
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937c771ff3e07c570800000000000000
+      internalID: 8486767690599876409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_227
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1105
+        width: 174
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f47c7cbc0c505d0800000000000000
+      internalID: -3096857187284725945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_228
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1107
+        width: 178
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa13f54ab8ea36170800000000000000
+      internalID: 8170566063761600938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_229
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1105
+        width: 183
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76f4630666e349e0800000000000000
+      internalID: -1638212513614727558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_230
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 1107
+        width: 184
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b52066f39a6c270800000000000000
+      internalID: 8270483855471958868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_231
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 1097
+        width: 176
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543d75881583a5950800000000000000
+      internalID: 6438520540110508869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_232
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 1110
+        width: 169
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a56af81ca2ed280800000000000000
+      internalID: -9016722393122055650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_233
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 1094
+        width: 155
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475594f5aac2a7b10800000000000000
+      internalID: 1979944096437458292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_234
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 1097
+        width: 158
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbf8b8b73982eaa0800000000000000
+      internalID: -6133188870109856817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_235
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 1107
+        width: 160
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d7ef649a045f2f0800000000000000
+      internalID: -939773851452146414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_236
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 1107
+        width: 173
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1aebce936b2aeb10800000000000000
+      internalID: 2011467890440268315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_237
+      rect:
+        serializedVersion: 2
+        x: 2273
+        y: 1110
+        width: 182
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718d1d1a793279090800000000000000
+      internalID: -8027908676602701801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_238
+      rect:
+        serializedVersion: 2
+        x: 2466
+        y: 1107
+        width: 201
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a71939beedb0efb0800000000000000
+      internalID: -4620484384674736219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_239
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 1110
+        width: 229
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db173683bbf183ea0800000000000000
+      internalID: -5892925223448907331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_240
+      rect:
+        serializedVersion: 2
+        x: 2951
+        y: 1107
+        width: 236
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef885fc45773ced0800000000000000
+      internalID: -2394939370691325980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_241
+      rect:
+        serializedVersion: 2
+        x: 3211
+        y: 1102
+        width: 234
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd95c04b7094fb690800000000000000
+      internalID: -7584262950034318884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_242
+      rect:
+        serializedVersion: 2
+        x: 3469
+        y: 1099
+        width: 228
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08f5639bd095af80800000000000000
+      internalID: -8095905482383427573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_243
+      rect:
+        serializedVersion: 2
+        x: 3715
+        y: 1097
+        width: 221
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe682ebf36f3fca0800000000000000
+      internalID: -5984168726211563778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_244
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 734
+        width: 205
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004b3ce0c5ba7a0e0800000000000000
+      internalID: -2258648276229966848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_245
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 742
+        width: 187
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c24dc9603c46c60800000000000000
+      internalID: 7810582086935653398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_246
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 747
+        width: 174
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ba03272938afb50800000000000000
+      internalID: 6627754466633362265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_247
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 753
+        width: 182
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1735a25396e5004d0800000000000000
+      internalID: -3170430331712285839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_248
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 750
+        width: 184
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73663115019b3d8d0800000000000000
+      internalID: -2822709061700327881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_249
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 750
+        width: 184
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7eed0f3742ac810800000000000000
+      internalID: 1786280282586802116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_250
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 740
+        width: 157
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3669a5e34526510800000000000000
+      internalID: 1540886649298641870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_251
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 734
+        width: 157
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d4ad98b936e9e50800000000000000
+      internalID: 6817996405569375598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_252
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 742
+        width: 150
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092f7a0702f15be00800000000000000
+      internalID: 1059787511505089168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_253
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 747
+        width: 142
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b6924324a1d2820800000000000000
+      internalID: 2894999007114390391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_254
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 750
+        width: 139
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65a762c06e5d77e0800000000000000
+      internalID: -1766151709187922581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_255
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 737
+        width: 147
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabfb1083e6469ba0800000000000000
+      internalID: -6082596303796438098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_256
+      rect:
+        serializedVersion: 2
+        x: 2155
+        y: 740
+        width: 160
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86af4f9efc078d530800000000000000
+      internalID: 3879975117265369704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_257
+      rect:
+        serializedVersion: 2
+        x: 2318
+        y: 750
+        width: 173
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2708fd0404cab2b00800000000000000
+      internalID: 804926350382039154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_258
+      rect:
+        serializedVersion: 2
+        x: 2515
+        y: 750
+        width: 184
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee90b4c8ddda1680800000000000000
+      internalID: -8783464200150147352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_259
+      rect:
+        serializedVersion: 2
+        x: 2707
+        y: 755
+        width: 186
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6e2e08213eb4d50800000000000000
+      internalID: 6722716537391867636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_260
+      rect:
+        serializedVersion: 2
+        x: 2935
+        y: 750
+        width: 189
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c65c1131928bab20800000000000000
+      internalID: 3146752324754233024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_261
+      rect:
+        serializedVersion: 2
+        x: 3143
+        y: 750
+        width: 186
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40ac6a39f270f720800000000000000
+      internalID: 2877926576642367562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_262
+      rect:
+        serializedVersion: 2
+        x: 3348
+        y: 758
+        width: 189
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347172d3eef01ccc0800000000000000
+      internalID: -3692652703564490941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_263
+      rect:
+        serializedVersion: 2
+        x: 3547
+        y: 747
+        width: 182
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40274c118a2e26540800000000000000
+      internalID: 4999807747815141892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_264
+      rect:
+        serializedVersion: 2
+        x: 3739
+        y: 755
+        width: 187
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760b9cf3776b61d80800000000000000
+      internalID: -8280230241586532249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_265
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 390
+        width: 179
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5156046ec6646d0800000000000000
+      internalID: -3006595965044583007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_266
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 398
+        width: 168
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ede7e1d754a1c60800000000000000
+      internalID: 7789614909175553636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_267
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 398
+        width: 176
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee498ada25276de60800000000000000
+      internalID: 7986696688614544622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_268
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 385
+        width: 207
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31cd5323a863df580800000000000000
+      internalID: -8791810930381562861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_269
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 398
+        width: 241
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03df19e27a01ce00800000000000000
+      internalID: 1063142475689874190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_270
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 395
+        width: 263
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19146ed7880bd780800000000000000
+      internalID: -8657316479044937441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_271
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 382
+        width: 252
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a0c37a290219370800000000000000
+      internalID: 8327473000227801686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_272
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 388
+        width: 244
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e3444136541abd0800000000000000
+      internalID: -2620737216308822515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_273
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 385
+        width: 211
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf597e244244d2e0800000000000000
+      internalID: -2101982265470263362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_274
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 388
+        width: 184
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aadd38a669695b960800000000000000
+      internalID: 7617159917543349674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_275
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 388
+        width: 165
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde7a657111ef39f0800000000000000
+      internalID: -486422769632117029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_276
+      rect:
+        serializedVersion: 2
+        x: 2371
+        y: 393
+        width: 149
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7077aeb954113d30800000000000000
+      internalID: 4409327885855715453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_277
+      rect:
+        serializedVersion: 2
+        x: 2544
+        y: 382
+        width: 144
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce2e45dea315e100800000000000000
+      internalID: 136537005328576195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_278
+      rect:
+        serializedVersion: 2
+        x: 2699
+        y: 385
+        width: 113
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11baa6992ca6b2c60800000000000000
+      internalID: 7794440964124879633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_279
+      rect:
+        serializedVersion: 2
+        x: 2822
+        y: 382
+        width: 113
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a361fd8e1a38720800000000000000
+      internalID: 2847297410975545947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_280
+      rect:
+        serializedVersion: 2
+        x: 2951
+        y: 385
+        width: 121
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3173e949626f64d60800000000000000
+      internalID: 7874251644066477843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_281
+      rect:
+        serializedVersion: 2
+        x: 3093
+        y: 388
+        width: 126
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b12a1ffb50dff800800000000000000
+      internalID: 648465964905144755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_282
+      rect:
+        serializedVersion: 2
+        x: 3245
+        y: 377
+        width: 132
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995c2e4c9298ebef0800000000000000
+      internalID: -90484130010970727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_283
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 382
+        width: 142
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e5ffd20bd11e340800000000000000
+      internalID: 4891223312824229407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_284
+      rect:
+        serializedVersion: 2
+        x: 3571
+        y: 382
+        width: 158
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39251f5a5e21e7b0800000000000000
+      internalID: -5196821529331685061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_285
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 25
+        width: 163
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a74f83864534e7e0800000000000000
+      internalID: -1737204979286980703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_286
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 36
+        width: 168
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba165bb5943238110800000000000000
+      internalID: 1261891118572069291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_287
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 33
+        width: 163
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795008901f4a3d760800000000000000
+      internalID: 7481504761145984407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_288
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 25
+        width: 158
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4725782dc91e8c5f0800000000000000
+      internalID: -736090475411844492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_289
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 38
+        width: 147
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f256c257914b300800000000000000
+      internalID: 266866268968398623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_290
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 22
+        width: 112
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532d6243371a1e010800000000000000
+      internalID: 1216430890535014965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_291
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 25
+        width: 99
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3bfcdd8fd8c2420800000000000000
+      internalID: 2606614384353457112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_292
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 28
+        width: 105
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704d10ab9fbb72410800000000000000
+      internalID: 1452336086092207111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_293
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 30
+        width: 126
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ae78bc2a83fdd60800000000000000
+      internalID: 7917108941791160899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_294
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 35
+        width: 147
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6714be9d1c4a2f0800000000000000
+      internalID: -962431278651443511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_295
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 35
+        width: 176
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6995b7cdee08e230800000000000000
+      internalID: 3668198310913874282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_296
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 25
+        width: 213
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c2112750bd23640800000000000000
+      internalID: 5058346147925535753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_297
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 36
+        width: 228
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6fb5391704c8bf00800000000000000
+      internalID: 1132870841050447722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_298
+      rect:
+        serializedVersion: 2
+        x: 2231
+        y: 28
+        width: 221
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945a54e9d1b800f00800000000000000
+      internalID: 1081016869894595913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_299
+      rect:
+        serializedVersion: 2
+        x: 2468
+        y: 28
+        width: 215
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6adc0c356beb1380800000000000000
+      internalID: -8999340610338104722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_300
+      rect:
+        serializedVersion: 2
+        x: 2715
+        y: 22
+        width: 189
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58d95b58975d6030800000000000000
+      internalID: 3489541598161262684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_301
+      rect:
+        serializedVersion: 2
+        x: 2914
+        y: 15
+        width: 163
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30943fb0823037880800000000000000
+      internalID: -8614538191695558397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_302
+      rect:
+        serializedVersion: 2
+        x: 3088
+        y: 14
+        width: 134
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecce99186d1a6d8c0800000000000000
+      internalID: -3974811678438462258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_303
+      rect:
+        serializedVersion: 2
+        x: 3232
+        y: 28
+        width: 118
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b758696c72d83a2c0800000000000000
+      internalID: -4421535207172700805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_304
+      rect:
+        serializedVersion: 2
+        x: 3356
+        y: 22
+        width: 144
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4b7169ed130dfa0800000000000000
+      internalID: -5778063489845709582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_305
+      rect:
+        serializedVersion: 2
+        x: 3539
+        y: 30
+        width: 158
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24529597866ac4310800000000000000
+      internalID: 1390669352593335618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miles_306
+      rect:
+        serializedVersion: 2
+        x: 3721
+        y: 36
+        width: 165
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd042f78638aa30c0800000000000000
+      internalID: -4595175517615669027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

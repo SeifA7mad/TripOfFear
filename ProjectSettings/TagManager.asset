@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Locker
+  - Enemy
+  - Wall
+  - Stop
+  - Mystery
+  - Note
+  - Elevator
+  - Wait
+  - Pushable
+  - Door
+  - Wall1
+  - Weapon
+  - Shield
+  - Generator
+  - Keys
+  - Rope
+  - correctDoor
+  - Bullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 'Backgorund '
+    uniqueID: 2163668843
+    locked: 0
+  - name: Floor
+    uniqueID: 1552152695
+    locked: 0
+  - name: Hatch
+    uniqueID: 3435897469
+    locked: 0
+  - name: Objects
+    uniqueID: 185393315
+    locked: 0
+  - name: NPC
+    uniqueID: 2364520493
+    locked: 0
+  - name: Player
+    uniqueID: 2005472841
+    locked: 0

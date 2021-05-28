@@ -1,0 +1,2540 @@
+fileFormatVersion: 2
+guid: 7c0757e76be53aa4c95985c0a9241510
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 359380259189920356
+    second: Chris_0
+  - first:
+      213: 3324769512842737093
+    second: Chris_1
+  - first:
+      213: 93849469693948493
+    second: Chris_2
+  - first:
+      213: 3009964147398953955
+    second: Chris_3
+  - first:
+      213: -684491276126887066
+    second: Chris_4
+  - first:
+      213: 954628752813916702
+    second: Chris_5
+  - first:
+      213: 85918174445786205
+    second: Chris_6
+  - first:
+      213: 4477575794203880925
+    second: Chris_7
+  - first:
+      213: 7724552554412713054
+    second: Chris_8
+  - first:
+      213: 5069504015585207652
+    second: Chris_9
+  - first:
+      213: -5032322003378424921
+    second: Chris_10
+  - first:
+      213: 7585428228272396916
+    second: Chris_11
+  - first:
+      213: 6072987306780572023
+    second: Chris_12
+  - first:
+      213: -8012695468345444544
+    second: Chris_13
+  - first:
+      213: -2922885561081718281
+    second: Chris_14
+  - first:
+      213: 7632924409854262077
+    second: Chris_15
+  - first:
+      213: -3074544449746097834
+    second: Chris_16
+  - first:
+      213: -2342530211419522365
+    second: Chris_17
+  - first:
+      213: -5717219317502383393
+    second: Chris_18
+  - first:
+      213: -7991389494196036250
+    second: Chris_19
+  - first:
+      213: 8673162590161599767
+    second: Chris_20
+  - first:
+      213: 4449294795286853094
+    second: Chris_21
+  - first:
+      213: 2417043155266227231
+    second: Chris_22
+  - first:
+      213: 2764487821502479689
+    second: Chris_23
+  - first:
+      213: 1245891327305390465
+    second: Chris_24
+  - first:
+      213: -2594142927419049414
+    second: Chris_25
+  - first:
+      213: 6648466034295407430
+    second: Chris_26
+  - first:
+      213: 3131204685028307917
+    second: Chris_27
+  - first:
+      213: 8711066008383150795
+    second: Chris_28
+  - first:
+      213: 925756016973344831
+    second: Chris_29
+  - first:
+      213: -2977359050657161278
+    second: Chris_30
+  - first:
+      213: 6789611764966899801
+    second: Chris_31
+  - first:
+      213: -2270868084718249332
+    second: Chris_32
+  - first:
+      213: -1912981586281165764
+    second: Chris_33
+  - first:
+      213: 963839870408639399
+    second: Chris_34
+  - first:
+      213: 6132708614045394421
+    second: Chris_35
+  - first:
+      213: 5912019650915288956
+    second: Chris_36
+  - first:
+      213: 4489488142919360051
+    second: Chris_37
+  - first:
+      213: -4604569892024344472
+    second: Chris_38
+  - first:
+      213: 5980036601910875979
+    second: Chris_39
+  - first:
+      213: -9203118669150169624
+    second: Chris_40
+  - first:
+      213: 8262172413881656772
+    second: Chris_41
+  - first:
+      213: 3698778183928698687
+    second: Chris_42
+  - first:
+      213: -3732300894819838096
+    second: Chris_43
+  - first:
+      213: 4371474454409949740
+    second: Chris_44
+  - first:
+      213: -5092672853882046537
+    second: Chris_45
+  - first:
+      213: -1036463878037634683
+    second: Chris_46
+  - first:
+      213: -4491101869812162506
+    second: Chris_47
+  - first:
+      213: -7359858619004919679
+    second: Chris_48
+  - first:
+      213: -6705197329915483571
+    second: Chris_49
+  - first:
+      213: 1873800057520166665
+    second: Chris_50
+  - first:
+      213: 5327004474651600274
+    second: Chris_51
+  - first:
+      213: -2857898896329918503
+    second: Chris_52
+  - first:
+      213: -5050229904598669720
+    second: Chris_53
+  - first:
+      213: 6729283318020902653
+    second: Chris_54
+  - first:
+      213: -969304983056828176
+    second: Chris_55
+  - first:
+      213: 5018748651417559594
+    second: Chris_56
+  - first:
+      213: 7811771106917934146
+    second: Chris_57
+  - first:
+      213: -3541403664730502049
+    second: Chris_58
+  - first:
+      213: -2385817015158844109
+    second: Chris_59
+  - first:
+      213: 4548027316457753055
+    second: Chris_60
+  - first:
+      213: -7271484825039164010
+    second: Chris_61
+  - first:
+      213: 3992461631146582349
+    second: Chris_62
+  - first:
+      213: 4895599757392576122
+    second: Chris_63
+  - first:
+      213: -1623780227956940340
+    second: Chris_64
+  - first:
+      213: -6828650086151561226
+    second: Chris_65
+  - first:
+      213: 912067945859408746
+    second: Chris_66
+  - first:
+      213: -3121432966656542845
+    second: Chris_67
+  - first:
+      213: -1260544801067421522
+    second: Chris_68
+  - first:
+      213: 8991449954002388669
+    second: Chris_69
+  - first:
+      213: -8903916327078105984
+    second: Chris_70
+  - first:
+      213: 6870656540748041235
+    second: Chris_71
+  - first:
+      213: -8610055956041267982
+    second: Chris_72
+  - first:
+      213: -3733646597925076380
+    second: Chris_73
+  - first:
+      213: -7958307703509805879
+    second: Chris_74
+  - first:
+      213: -7461826437371728771
+    second: Chris_75
+  - first:
+      213: 7721056547650641522
+    second: Chris_76
+  - first:
+      213: 5081193281398779962
+    second: Chris_77
+  - first:
+      213: -6575138403658991653
+    second: Chris_78
+  - first:
+      213: 6883828954222534981
+    second: Chris_79
+  - first:
+      213: -2481426298670381386
+    second: Chris_80
+  - first:
+      213: -1087248452215645454
+    second: Chris_81
+  - first:
+      213: 4032613762790512370
+    second: Chris_82
+  - first:
+      213: 5787239420278880735
+    second: Chris_83
+  - first:
+      213: -2484669933573178293
+    second: Chris_84
+  - first:
+      213: 2845285951423934003
+    second: Chris_85
+  - first:
+      213: -1570217557375664109
+    second: Chris_86
+  - first:
+      213: 4926015996272961070
+    second: Chris_87
+  - first:
+      213: 1043193078967248586
+    second: Chris_88
+  - first:
+      213: 6066586670218018010
+    second: Chris_89
+  - first:
+      213: 3635095976237658096
+    second: Chris_90
+  - first:
+      213: 2296494636318639357
+    second: Chris_91
+  - first:
+      213: 1109554501605285471
+    second: Chris_92
+  - first:
+      213: -7596156658101652605
+    second: Chris_93
+  - first:
+      213: 2223916930871080952
+    second: Chris_94
+  - first:
+      213: -4237751153446859534
+    second: Chris_95
+  - first:
+      213: -8600964585934422204
+    second: Chris_96
+  - first:
+      213: -8706311869802308188
+    second: Chris_97
+  - first:
+      213: -7053257490480610616
+    second: Chris_98
+  - first:
+      213: -7164037229416904972
+    second: Chris_99
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Chris_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 3413
+        width: 120
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4629d401176ccf400800000000000000
+      internalID: 359380259189920356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_1
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 3423
+        width: 119
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c53a0da144f32e20800000000000000
+      internalID: 3324769512842737093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_2
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 3448
+        width: 150
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42777f689b6d4100800000000000000
+      internalID: 93849469693948493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_3
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 3478
+        width: 163
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb4060d17a85c920800000000000000
+      internalID: 3009964147398953955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_4
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 3504
+        width: 169
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6636a9a9fc23086f0800000000000000
+      internalID: -684491276126887066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_5
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 3517
+        width: 165
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1209d7fac58f3d00800000000000000
+      internalID: 954628752813916702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_6
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 3807
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54579bdf1e313100800000000000000
+      internalID: 85918174445786205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_7
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 3513
+        width: 164
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddde86c267b832e30800000000000000
+      internalID: 4477575794203880925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_8
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 3504
+        width: 162
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e542b9e2f9f133b60800000000000000
+      internalID: 7724552554412713054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_9
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 3500
+        width: 154
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4656f54fa0f7a5640800000000000000
+      internalID: 5069504015585207652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_10
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 3504
+        width: 142
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a33f31ecc9992ab0800000000000000
+      internalID: -5032322003378424921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_11
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 3504
+        width: 134
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a9567c8cad44960800000000000000
+      internalID: 7585428228272396916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_12
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 3504
+        width: 134
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779bc1a87c5974450800000000000000
+      internalID: 6072987306780572023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_13
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3104
+        width: 134
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04733e3bcef2dc090800000000000000
+      internalID: -8012695468345444544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_14
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 3104
+        width: 154
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f91b9c7113df67d0800000000000000
+      internalID: -2922885561081718281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_15
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 3104
+        width: 169
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b75ce4f489de960800000000000000
+      internalID: 7632924409854262077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_16
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 3102
+        width: 176
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6592cb2dc160555d0800000000000000
+      internalID: -3074544449746097834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_17
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 3404
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3caf7b81f29ad7fd0800000000000000
+      internalID: -2342530211419522365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_18
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 3404
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdae445625b58a0b0800000000000000
+      internalID: -5717219317502383393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_19
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 3402
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d18a06891e81190800000000000000
+      internalID: -7991389494196036250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_20
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 3402
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71df9c16c634d5870800000000000000
+      internalID: 8673162590161599767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_21
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 3100
+        width: 145
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5311efa021fbd30800000000000000
+      internalID: 4449294795286853094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_22
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 3102
+        width: 145
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1cce6491ff0b8120800000000000000
+      internalID: 2417043155266227231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_23
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 3404
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d7c8ad60f6d5620800000000000000
+      internalID: 2764487821502479689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_24
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 3102
+        width: 179
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18917c8af8b4a4110800000000000000
+      internalID: 1245891327305390465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_25
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 3102
+        width: 173
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a789a70c0cffbd0800000000000000
+      internalID: -2594142927419049414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_26
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 3100
+        width: 164
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6438d6312a8144c50800000000000000
+      internalID: 6648466034295407430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_27
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 3098
+        width: 151
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3b62a3216447b20800000000000000
+      internalID: 3131204685028307917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_28
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 3098
+        width: 169
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca58a4a16ce3e870800000000000000
+      internalID: 8711066008383150795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_29
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2791
+        width: 195
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30706c4132f8dc00800000000000000
+      internalID: 925756016973344831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_30
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 2813
+        width: 238
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf19c8d7bb4ea6d0800000000000000
+      internalID: -2977359050657161278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_31
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 2839
+        width: 288
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9504aa56deb893e50800000000000000
+      internalID: 6789611764966899801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_32
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 2880
+        width: 331
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ad89e22814c70e0800000000000000
+      internalID: -2270868084718249332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_33
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 3066
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c09d7f169b375e0800000000000000
+      internalID: -1912981586281165764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_34
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 2923
+        width: 364
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3c018614f306d00800000000000000
+      internalID: 963839870408639399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_35
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 2962
+        width: 393
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f56723fdf1cb1550800000000000000
+      internalID: 6132708614045394421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_36
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2700
+        width: 405
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c774fed9c86bb0250800000000000000
+      internalID: 5912019650915288956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_37
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 2395
+        width: 145
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e590efdaddd4e30800000000000000
+      internalID: 4489488142919360051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_38
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 2395
+        width: 144
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8602e6a44184910c0800000000000000
+      internalID: -4604569892024344472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_39
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 2393
+        width: 146
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b475bb81b9b5df250800000000000000
+      internalID: 5980036601910875979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_40
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 2396
+        width: 178
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5d983a454f74080800000000000000
+      internalID: -9203118669150169624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_41
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 2395
+        width: 206
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5a27a190229a270800000000000000
+      internalID: 8262172413881656772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_42
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 2395
+        width: 224
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37d80c4923b45330800000000000000
+      internalID: 3698778183928698687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_43
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 2395
+        width: 227
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07714695c14343cc0800000000000000
+      internalID: -3732300894819838096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_44
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1993
+        width: 221
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22bccfead89aac30800000000000000
+      internalID: 4371474454409949740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_45
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1993
+        width: 225
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7f51385013359b0800000000000000
+      internalID: -5092672853882046537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_46
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1993
+        width: 229
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5810b07289dbd91f0800000000000000
+      internalID: -1036463878037634683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_47
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 1993
+        width: 227
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630e0cfe4a66ca1c0800000000000000
+      internalID: -4491101869812162506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_48
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 1993
+        width: 223
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1806d1984978cd990800000000000000
+      internalID: -7359858619004919679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_49
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 1994
+        width: 218
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a6d79dd8a52f2a0800000000000000
+      internalID: -6705197329915483571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_50
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 1994
+        width: 210
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90798987933110a10800000000000000
+      internalID: 1873800057520166665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_51
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 1994
+        width: 205
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295668498525de940800000000000000
+      internalID: 5327004474651600274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_52
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 2386
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d736487814b658d0800000000000000
+      internalID: -2857898896329918503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_53
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1596
+        width: 190
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8666756b8aaf9e9b0800000000000000
+      internalID: -5050229904598669720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_54
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1598
+        width: 171
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe09934687336d50800000000000000
+      internalID: 6729283318020902653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_55
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1591
+        width: 165
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8b1e5e0465c82f0800000000000000
+      internalID: -969304983056828176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_56
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1598
+        width: 167
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22e6b8de4d26a540800000000000000
+      internalID: 5018748651417559594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_57
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1594
+        width: 169
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244e086ee6cf86c60800000000000000
+      internalID: 7811771106917934146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_58
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 1598
+        width: 168
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5cc87d41286adec0800000000000000
+      internalID: -3541403664730502049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_59
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 1598
+        width: 167
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335df58b010e3eed0800000000000000
+      internalID: -2385817015158844109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_60
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 1598
+        width: 169
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9cc327fb6dd1f30800000000000000
+      internalID: 4548027316457753055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_61
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 1598
+        width: 169
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69da5edd31f761b90800000000000000
+      internalID: -7271484825039164010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_62
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 1596
+        width: 169
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d416ed753b2186730800000000000000
+      internalID: 3992461631146582349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_63
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1196
+        width: 173
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e7fd59a0aa0f340800000000000000
+      internalID: 4895599757392576122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_64
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1194
+        width: 171
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1e25f5c7c2779e0800000000000000
+      internalID: -1623780227956940340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_65
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1196
+        width: 171
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffde772de2cb31a0800000000000000
+      internalID: -6828650086151561226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_66
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1196
+        width: 170
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6368f3e6f058ac00800000000000000
+      internalID: 912067945859408746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_67
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1196
+        width: 169
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3873e3041417ea4d0800000000000000
+      internalID: -3121432966656542845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_68
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 1196
+        width: 170
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea039ec9e25a18ee0800000000000000
+      internalID: -1260544801067421522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_69
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1196
+        width: 169
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6c30c281c08cc70800000000000000
+      internalID: 8991449954002388669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_70
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 1196
+        width: 168
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c65b6864fee6480800000000000000
+      internalID: -8903916327078105984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_71
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 1196
+        width: 168
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c4005b8b9795f50800000000000000
+      internalID: 6870656540748041235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_72
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 1196
+        width: 168
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f48cebd9bfe28880800000000000000
+      internalID: -8610055956041267982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_73
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 799
+        width: 165
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46284dd633c6f2cc0800000000000000
+      internalID: -3733646597925076380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_74
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 796
+        width: 166
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c41b0ffe496e8190800000000000000
+      internalID: -7958307703509805879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_75
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 796
+        width: 166
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ce6d0c364427890800000000000000
+      internalID: -7461826437371728771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_76
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 801
+        width: 166
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e9b6da504b62b60800000000000000
+      internalID: 7721056547650641522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_77
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 801
+        width: 164
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3030ec3e56048640800000000000000
+      internalID: 5081193281398779962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_78
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 801
+        width: 164
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd770ec557a60c4a0800000000000000
+      internalID: -6575138403658991653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_79
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 814
+        width: 276
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541abf636f5488f50800000000000000
+      internalID: 6883828954222534981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_80
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 794
+        width: 119
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b68073bde3309dd0800000000000000
+      internalID: -2481426298670381386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_81
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 807
+        width: 169
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fad71f0b4159e0f0800000000000000
+      internalID: -1087248452215645454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_82
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 807
+        width: 161
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6da7ff9d8b6f730800000000000000
+      internalID: 4032613762790512370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_83
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 403
+        width: 116
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd93cd33797605050800000000000000
+      internalID: 5787239420278880735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_84
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 402
+        width: 81
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4cf6491cdda48dd0800000000000000
+      internalID: -2484669933573178293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_85
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 403
+        width: 104
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e68037f7c7c7720800000000000000
+      internalID: 2845285951423934003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_86
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 405
+        width: 147
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310ca807377753ae0800000000000000
+      internalID: -1570217557375664109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_87
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 405
+        width: 188
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26edbf0379bc5440800000000000000
+      internalID: 4926015996272961070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_88
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 401
+        width: 228
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac62df7049a2a7e00800000000000000
+      internalID: 1043193078967248586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_89
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 405
+        width: 275
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adcf6753f68d03450800000000000000
+      internalID: 6066586670218018010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_90
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 405
+        width: 291
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffe814e784727230800000000000000
+      internalID: 3635095976237658096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_91
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 399
+        width: 283
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4cc5254b9cedf10800000000000000
+      internalID: 2296494636318639357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_92
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 3
+        width: 275
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e5e17c0fde56f00800000000000000
+      internalID: 1109554501605285471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_93
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 3
+        width: 240
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383f1aff3c7059690800000000000000
+      internalID: -7596156658101652605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_94
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1
+        width: 203
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f73c827aa0fcde10800000000000000
+      internalID: 2223916930871080952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_95
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 3
+        width: 162
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc4c4c47cb7035c0800000000000000
+      internalID: -4237751153446859534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_96
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 5
+        width: 136
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ff9a9674c33a880800000000000000
+      internalID: -8600964585934422204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_97
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 8
+        width: 152
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad9aa08b77fc2780800000000000000
+      internalID: -8706311869802308188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_98
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 10
+        width: 167
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c24a82aeabcd1e90800000000000000
+      internalID: -7053257490480610616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chris_99
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 10
+        width: 179
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f68ee6b81a349c90800000000000000
+      internalID: -7164037229416904972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
